@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+**Install and Run Jokes API locally**
+
+```
+Clone from GitHub with:
+git clone https://github.com/15Dkatz/official_joke_api.git
+npm i && npm run dev
+or
+npm i 
+npm run start
+```
+
+**Install React Router, etc**
+```
+npm i react-router@5.0.1 react-router-dom@5.0.1 history@4.9.0 --save
+```
